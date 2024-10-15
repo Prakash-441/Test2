@@ -1,2 +1,4 @@
 hello welcome
 ln -s /opt/tomact/bin/startup.sh /usr/bin/tomcat-start
+mvn archetype:generate -DgroupId=com.example -DartifactId=sample-webapp -DarchetypeArtifactId=maven-archetype-webapp -DinteractiveMode=false
+
