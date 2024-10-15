@@ -1,1 +1,2 @@
 hello welcome
+ln -s /opt/tomact/bin/startup.sh /usr/bin/tomcat-start
